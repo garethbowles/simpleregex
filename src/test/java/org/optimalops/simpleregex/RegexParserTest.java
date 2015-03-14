@@ -50,4 +50,9 @@ public class RegexParserTest {
         String mismatchQMarks = Strings.repeat("?", 6);
         assertFalse(RegexParser.match(mismatchQMarks, "abcdefgh"));
     }
+
+    @Test
+    public void testElementumExample() throws Exception {
+        assertTrue(RegexParser.match( "a?*e+h", "abcdefgh"));
+    }
 }
