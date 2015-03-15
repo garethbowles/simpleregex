@@ -1,3 +1,17 @@
+/*
+  Parse a string with a simple regex where:
+    * denotes 0 or more of any character  
+    + denotes 1 or more of any character
+    ? denotes a single arbitrary character  
+*/
+
+/*
+  TODO
+
+  1. Preprocess regex to replace multiple * with single *
+  2. Cache each partial-regex/string pair with its result to avoid reevaluation  
+  
+*/
 package org.optimalops.simpleregex;
 
 public class RegexParser {
