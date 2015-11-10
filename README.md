@@ -13,4 +13,4 @@ Simple regex parser coding exercise
 4. View test results in ./build/reports/tests/classes/org.optimalops.simpleregex.RegexParserTest.html
 
 ## New section
-That previous text sucked
+Looking better
