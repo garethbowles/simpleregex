@@ -13,4 +13,5 @@ Simple regex parser coding exercise
 4. View test results in ./build/reports/tests/classes/org.optimalops.simpleregex.RegexParserTest.html
 
 ## New section
-Looking better, but hten it got worse
+Looking better, but hten it got worse.
+Hopefullu better now.
