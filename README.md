@@ -11,3 +11,6 @@ Simple regex parser coding exercise
 2. Go to repo root directory
 3. ./gradlew clean test 
 4. View test results in ./build/reports/tests/classes/org.optimalops.simpleregex.RegexParserTest.html
+
+## New section
+New text here
